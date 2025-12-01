@@ -1,0 +1,7 @@
+{
+  "name": "Translator-TranscriberLive",
+  "description": "An interactive sandbox for Gemini's native audio and function calling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
